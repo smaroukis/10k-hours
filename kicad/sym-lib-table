@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TM1637")(type "KiCad")(uri "${KIPRJMOD}/02-Symbols/TM1637.kicad_sym")(options "")(descr ""))
+  (lib (name "Ark-7-Seg")(type "KiCad")(uri "${KIPRJMOD}/02-Symbols/Ark-7-Seg.kicad_sym")(options "")(descr ""))
+  (lib (name "User_10K-Hours")(type "KiCad")(uri "${KIPRJMOD}/02-Symbols/User_10K-Hours.kicad_sym")(options "")(descr ""))
+)
